@@ -12,7 +12,7 @@ layout: default
 
 There are several ways to manage versions in software. Or for that purpose, anything versionable.
 
-In one hand, there is the semantic part (AKA release system), which refers to compatibility, dependencies, API changes, and so. Probably the best example for that is the [Semantic Versioning](https://semver.org/) system. However other, even rather crazy, exist, such as the [TeX release system](http://www.texfaq.org/FAQ-TeXfuture) using the decimals of the number <p>$$\pi$$</p>.
+In one hand, there is the semantic part (AKA release system), which refers to compatibility, dependencies, API changes, and so. Probably the best example for that is the [Semantic Versioning](https://semver.org/) system. However other, even rather crazy, exist, such as the [TeX release system](http://www.texfaq.org/FAQ-TeXfuture) using the decimals of the number $$\pi$$.
 
 On the other hand, there is the diff part (AKA version control system), which refers to the changes while developing the software. Probably the best example is simply [`git`](https://git-scm.com/). However, and naturally (`git` was not always there), other exist, such as the popular [`svn`](https://subversion.apache.org/). Though in both cases, the concept of _branching_ exist.
 
