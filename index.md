@@ -18,7 +18,7 @@ On the other hand, there is the diff part (AKA version control system), which re
 
 Now, some strategies have been proposed for branching, and most rely on the _tag_ capabilities of the version control system to do the semantic part. So my wonder is, why do we need tags, which are inherently prone to human errors? So I've come with this idea to merge the two parts above using the following branching strategy:
 
-![semantic_branching](https://docs.google.com/drawings/d/e/2PACX-1vSfQsK6vIYNlZCu3XWa2fipg9REb_Wtwlo6uNBvCyzH_1vho9ZgxpxL2KcQYKJ5OOCLCinvBrdPorBu/pub?w=960&h=720)
+![semantic_branching](https://docs.google.com/drawings/d/e/2PACX-1vSfQsK6vIYNlZCu3XWa2fipg9REb_Wtwlo6uNBvCyzH_1vho9ZgxpxL2KcQYKJ5OOCLCinvBrdPorBu/pub?w=1440&h=1080)
 
 Basically, the widely known and now controversial `master` branch is split into three branches named `major`, `minor` and `patch`. That is, if a set of commits enters the `major` branch, that's to be the latest, and introduces API changes for instance. Same concept applies for the `minor` and `path` branch. Additionally, I'd add the `test` branch which is equivalent to what usually is named `devel` or `unstable`, and it's purpose is to fulfil any integration test required, specially if the repo is super repo of submodules. The sync arrows are free to choose on your preffered sync way using `merge` or `rebase`. I personally prefer `rebase` to sync branches, and `merge` for adding new work on top (features, fix, etc).
 
