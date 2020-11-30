@@ -36,7 +36,7 @@ Additionally, in a multiuser repository, I'm also starting to prepend the person
 
 For completeness of this writing, I had to search for `semantic branching`, and for instance, I found [this](https://dev-cafe.github.io/branching-model/), which is not at all what I wanted to state here. Another searcy entry is [this one](https://medium.com/dipien/git-branching-for-google-play-apps-230b46edccc6) which start to be more similar, but not exactly what I meant above.
 
-So this is it, my semantic branching model.
+So this is it, my idea of a semantic branching model.
 
 
 {% include sharing.html %}
