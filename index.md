@@ -6,7 +6,7 @@ layout: default
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-## An unorderdered set of ideas
+## An unordered set of ideas
 
 ### Semantic branching
 
