@@ -12,6 +12,6 @@ layout: default
 
 There are several ways to manage versions in software. Or for that purpose, for anything versionable.
 
-In one hand, there is the semantic part (AKA release system), which refers to compatibility, dependencies, API changes, and so. Probably the best example for that is the [Semantic Versioning](https://semver.org/) system. However, other rather, even rather crazy, might exist, such as the [TeX release system](http://www.texfaq.org/FAQ-TeXfuture) using the decimals of the number $$\pi$$.
+In one hand, there is the semantic part (AKA release system), which refers to compatibility, dependencies, API changes, and so. Probably the best example for that is the [Semantic Versioning](https://semver.org/) system. However, other rather, even rather crazy, might exist, such as the [TeX release system](http://www.texfaq.org/FAQ-TeXfuture) using the decimals of the number <p>$$\pi$$</p>.
 
 {% include sharing.html %}
