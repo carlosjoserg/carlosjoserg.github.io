@@ -38,5 +38,22 @@ For completeness of this writing, I had to search for `semantic branching`, and 
 
 And that's it, my idea of a semantic branching strategy.
 
+{% include sharing.html %}
+
+### The '92 Dream Team is not the best ever assembled
+
+![dream_team](https://www.usab.com/~/media/7ca08f0318194f0ba592a906aa251295.ashx?bc=e3e3e3&h=300&w=400)
+
+Not that I respect the team, to me, it could have been even better with these changes:
+
+1. Dominique Wilkins, instead of Clyde Drexler. With all due respect, but Clyde is not match in this team, specially with someone like Dominique in the court. My guess is that Dominique is not "American", though he was included in the team later on. Other than that, there is no rational explanation for this choice. I don't even care about Isiah Thomas not being there, me being a Detroit Pistons fan at that time.
+
+2. Shaquille O'Neal instead of Christian Laettner. Well, this why you shouldn't never base your decision purely on numbers. Believe or not, Shaq was in that season as a NCAA player, and later became the dominant player he was. Can you imagine him in the first dream team? No one would have notice that he was actually the NCAA guy, probably that's why they didn't choose him, besides the numbers.
+
+3. Hakeem Olajuwon, instead of either Patrick Ewing or David Robinson. It really don't care who is to be substituted, but Hakeem, IMHO, is in the Top 5 all-time player (not center, player... yes, over Kobe, Lebron and whowever you want to put on Top 3, you still need to overcome Hakeem), and none of the other two are. Period. Probably the one center MJ ever respected, never saw a dunk on him by MJ, like on other centers of that era. [His story](https://www.youtube.com/watch?v=l7gbybeKafQ) is even more incredible, considering this was the 80s. Similar to Dominique, I think he was not in the first team due to "American" reasons.
+
+So that's it, my best team never assembled is the one in the picture below:
+
+![better](https://docs.google.com/drawings/d/e/2PACX-1vT6vNH03VBP_j5fr435fPvgPM8VtcMAo3tRe3fLARdgiVe06yyrMnQOcgixxwSg3PlUCqzn0k8KfC0F/pub?w=1440&h=1080)
 
 {% include sharing.html %}
